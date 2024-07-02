@@ -1,7 +1,7 @@
 
 <h2> Project Description</h2>
 
--<h1 colour📘>Title: Amazon Shopping Website UI Clone</h1>
+-<h1>Title: Amazon Shopping Website UI Clone</h1>
 - **Description**: A pixel-perfect replica of the Amazon shopping website's user interface, created using HTML and CSS. The project showcases proficiency in front-end development, focusing on design accuracy and responsive behavior.
 <br>
 ### Tools and Technologies
