@@ -34,8 +34,14 @@
 - **CSS Animations and Transitions**: Added smooth animations and transitions for interactive elements to enhance user experience.
 
 This structure should provide a clear and comprehensive overview of your project on GitHub.
+
+<br>
+<br>
+
+**How it look like in laptop **❤️❤️
+
 ![image](https://github.com/user-attachments/assets/0997fcdd-fc44-4867-93a0-00b21d09d0cd)
 
-<img width ="101" alt = "JPG" src = "https://github.com/user-attachments/assets/0997fcdd-fc44-4867-93a0-00b21d09d0cd">
+<img width ="101" alt = "PNG" src = "https://github.com/user-attachments/assets/0997fcdd-fc44-4867-93a0-00b21d09d0cd">
 
 
